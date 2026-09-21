@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="assets/app.png" alt="" width="96">
 </p>
 
