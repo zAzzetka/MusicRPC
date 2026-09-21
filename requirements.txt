@@ -1,0 +1,10 @@
+pypresence>=4.6.0
+pystray>=0.19.5
+Pillow>=10.0
+paho-mqtt>=1.6
+winrt-runtime>=3.2,<4
+winrt-Windows.Foundation>=3.2,<4
+winrt-Windows.Foundation.Collections>=3.2,<4
+winrt-Windows.Media>=3.2,<4
+winrt-Windows.Media.Control>=3.2,<4
+winrt-Windows.Storage.Streams>=3.2,<4

@@ -1,0 +1,9 @@
+# Автоматическая нормализация текста
+* text=auto
+
+# .bat-файлы Windows должны оставаться с CRLF
+*.bat text eol=crlf
+
+# Бинарные файлы
+*.png binary
+*.ico binary

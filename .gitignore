@@ -1,0 +1,32 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Свой Python и загрузчик uv, которые скачивает install.bat
+.tools/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Сборка .exe (build_exe.bat)
+build/
+dist/
+*.spec
+
+# Логи и локальные настройки (обычно лежат в %APPDATA%, но на всякий случай)
+*.log
+config.json
+
+# Редакторы и система
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Кэши инструментов
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
